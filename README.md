@@ -11,3 +11,19 @@ Este proyecto implementa el clásico juego Tic Tac Toe (Tres en Raya) en Python 
 - La función `check_winner` verifica si hay un ganador en el juego.
 - La función `check_tie` verifica si hay un empate en el juego.
 - La función `end_game` finaliza el juego y muestra el mensaje de resultado.
+
+## Uso
+
+Para ejecutar el juego, simplemente ejecuta el archivo `main.py`:
+
+```bash
+python main.py
+```
+
+## Requisitos
+
+- Python 3.10 o superior
+- Biblioteca tkinter (incluida en la instalación estándar de Python)
+
+## Créditos
+Este proyecto fue desarrollado por Daniel Escobar.
